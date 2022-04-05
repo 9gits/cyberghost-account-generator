@@ -1,5 +1,5 @@
 # cyberghost-account-generator
-made cyberghost environment in windows sandbox
+make cyberghost environment in windows sandbox
 
 
 ----------
