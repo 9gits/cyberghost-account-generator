@@ -11,7 +11,7 @@ how to use
 
 1.edit cyberghost.wsb (in windows)
 
-    <HostFolder>[cyberghost location (absolute Path)]</HostFolder>
+    <HostFolder>["cyberghost"-folder location (absolute Path)]</HostFolder>
 
 
 2.execute cyberghost.wsb (in windows)
