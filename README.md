@@ -3,6 +3,9 @@ make cyberghost environment in windows sandbox
 
 ![cyberghost make ok](https://user-images.githubusercontent.com/99726976/161697638-41d6fc60-cd84-447a-83d6-898bc65ea07c.PNG)
 
+You may use it as you wish, as I am not responsible for it in any way and the quality is low, as I only created it to study automation.
+
+
 ----------
 how to use
 
