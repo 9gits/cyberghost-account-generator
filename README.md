@@ -1,6 +1,7 @@
 # cyberghost-account-generator
 make cyberghost environment in windows sandbox
 
+![cyberghost make ok](https://user-images.githubusercontent.com/99726976/161697638-41d6fc60-cd84-447a-83d6-898bc65ea07c.PNG)
 
 ----------
 how to use
