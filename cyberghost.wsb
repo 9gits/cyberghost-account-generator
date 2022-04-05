@@ -1,0 +1,19 @@
+<Configuration>
+  <vGPU>Disable</vGPU>
+  <Networking>Enable</Networking>
+  <MappedFolders>
+    <MappedFolder>
+      <HostFolder>C:\Users\user\Documents\wsb\wsb_cyberghost\cyberghost</HostFolder>
+      <SandboxFolder>C:\Users\WDAGUtilityAccount\Desktop\program</SandboxFolder>
+      <ReadOnly>true</ReadOnly>
+    </MappedFolder>
+  </MappedFolders>
+  <AudioInput>Disable></AudioInput>
+  <VideoInput>Disable</VideoInput>
+  <ProtectedClient>Default</ProtectedClient>
+  <PrinterRedirection>Disable</PrinterRedirection>
+  <ClipboardRedirection>Enable</ClipboardRedirection>
+  <LogonCommand>
+    <Command>C:\Users\WDAGUtilityAccount\Desktop\program\cmd\cyberghost.cmd</Command>
+  </LogonCommand>
+</Configuration>

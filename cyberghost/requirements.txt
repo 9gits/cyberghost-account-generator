@@ -1,0 +1,5 @@
+pyautogui
+opencv-python
+pillow
+selenium
+undetected-chromedriver
